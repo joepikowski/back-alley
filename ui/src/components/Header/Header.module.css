@@ -1,0 +1,13 @@
+.game-header {
+    background: grey;
+    color: white;
+    border-radius: 5px;
+}
+
+.game-header-inline {
+    display: inline;
+}
+
+.game-header-align-top {
+    vertical-align: top;
+}

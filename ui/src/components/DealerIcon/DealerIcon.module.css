@@ -1,0 +1,12 @@
+.dealer-icon-image {
+    height: 26px;
+    width: 26px;
+}
+
+.dealer-icon-image-inline {
+    display: inline;
+}
+
+.dealer-icon-image-block {
+    display: block;
+}

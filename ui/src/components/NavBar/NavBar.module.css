@@ -1,0 +1,17 @@
+.navbar-wrapper {
+    background-color: #9e3b3b;
+}
+
+.navbar-image {
+    height: 17px;
+    width: 17px;
+}
+.navbar-text {
+    color: white !important;
+    font-size: .75em;
+}
+
+.navbar {
+  pointer-events: none;
+  cursor: default;
+}

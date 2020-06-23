@@ -1,0 +1,14 @@
+.player {
+
+}
+
+.player-image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.player-image-indicate-turn {
+    box-shadow: #fac230 0px 0px 0px inset, #fac230 0px 0px 30px !important;
+}

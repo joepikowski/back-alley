@@ -1,0 +1,9 @@
+.game-log-panel {
+    display: block;
+    height: 300px;
+    overflow-y: auto;
+}
+
+.game-log-panel-rows {
+    height: 200px;
+}
